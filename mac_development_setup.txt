@@ -1,0 +1,51 @@
+[Package Manager - HomeBrew]
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+[Terminal - iterm2]
+brew install item2
+- General->Reuse previous session's directory
+
+- Text->Font->Anonymous Pro
+  Download Anonymous Pro Font
+  http://www.marksimonson.com/fonts/view/anonymous-pro
+
+- Keys->Key Mappings->Natural Text Editing
+
+[Youtube Downloader - youtube-dl]
+brew install youtube-dl
+
+[Firefox edition]
+brew install homebrew/cask-versions/firefox-developer-edition
+- ublock origin
+- privacy badger
+- cookie autodelete
+
+[Window Mover - rectangle]
+brew install rectangle
+
+[Alt-tab with preview screen]
+brew install alt-tab
+
+[Spotlight - alfred]
+brew install alfred
+
+[Video Player]
+brew install vlc
+
+[Visual studio code]
+brew install visual-studio-code
+- FontSize Shortcuts
+- eslint
+- prettier - code formatter
+
+[Image Editor - gimp]
+brew install gimp
+
+[Image Editor - inkscape]
+brew install inkscape
+
+[System Statistics]
+brew install stats 
+
+
+
